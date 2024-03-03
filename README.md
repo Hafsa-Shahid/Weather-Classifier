@@ -3,7 +3,7 @@
 This project focuses on building a weather classifier using transfer learning on the VGG19 convolutional neural network. The model is trained on a diverse dataset of weather images sourced from Kaggle, providing it with the ability to classify images into different weather categories.
 
 ## Dataset
-The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset) and includes a variety of weather images. Due credit and appreciation to Kaggle for providing this valuable dataset.
+The dataset used in this project is sourced from [here](https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset) and includes a variety of weather images. Due credit and appreciation to Kaggle for providing this valuable dataset.
 
 ## Dependencies
 Ensure you have the following dependencies installed before running the code:
