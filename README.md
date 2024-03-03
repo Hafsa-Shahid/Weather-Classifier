@@ -9,6 +9,7 @@ The dataset used in this project is sourced from [here](https://www.kaggle.com/d
 Ensure you have the following dependencies installed before running the code:
 
 Keras
+
 OpenCV (cv2)
 
 ## Usage
