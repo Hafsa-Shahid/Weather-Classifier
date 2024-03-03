@@ -8,14 +8,13 @@ The dataset used in this project is sourced from [here](https://www.kaggle.com/d
 ## Dependencies
 Ensure you have the following dependencies installed before running the code:
 
-Keras
+**Keras**
 
-OpenCV (cv2)
+**OpenCV (cv2)**
 
 ## Usage
 Clone the repository.
-Install the required dependencies using 'pip install -r requirements.txt'
-Run the main script to train and evaluate the weather classifier.
+Install the required dependencies using **pip install -r requirements.txt** , run the main script to train and evaluate the weather classifier.
 
 Feel free to explore and modify the code to suit your specific requirements. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request, I look forward to any and all feedbacks on my work.
 
